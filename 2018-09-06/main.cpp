@@ -17,7 +17,10 @@ int main()
     f1 = (f1 + 1);
     cout << f1 << endl;
     cout << "f1 = " << f1 << endl;
-    // Exempel 2.1, övning 2.1 sidan 25
+    // inmatning
+    int heltal1;
+    cin >> heltal1;
+    cout << heltal1 << endl;
     
 	return 0;
 }	
