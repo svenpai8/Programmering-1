@@ -39,6 +39,6 @@ int main()
 	cin >> val;
 	cout << "Det nya värdet: ";
 	cin >> hf[val-1]; // Heltalet, indexvärdet
-	cout <<hf[0]<<' '<< hf[1]<<' '<< hf[2]<< ' ' << hf[3]<< endl;
+	cout <<hf[0]<<' '<< hf[1]<<' '<< hf[2]<< ' ' << hf[3]<< endl; 
   return 0;
 }
