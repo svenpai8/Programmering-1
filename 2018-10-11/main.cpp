@@ -19,5 +19,7 @@ int main()
 	// int minuter = 173;
 	// cout << minuter << "=" << minuter/60 << " och " << minuter%60 << endl;
 	// cout << sqrt(69) << endl;
+	// övning 4.2
+	
 	return 0;
 }
