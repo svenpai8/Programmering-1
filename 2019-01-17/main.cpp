@@ -13,5 +13,6 @@ int main()
 	}
 
 	cout << "Stämmer med 3x - 7y -1 = 0 pröva!" << endl;
+
 return 0;
 }
